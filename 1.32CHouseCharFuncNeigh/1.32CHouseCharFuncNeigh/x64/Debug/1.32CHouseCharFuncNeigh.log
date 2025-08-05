@@ -1,0 +1,10 @@
+﻿  FileName.c
+C:\Users\atind\OneDrive\Desktop\1_Neigh\C\1.32CHouseCharFuncNeigh\1.32CHouseCharFuncNeigh\FileName.c(14,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+      C:\Users\atind\OneDrive\Desktop\1_Neigh\C\1.32CHouseCharFuncNeigh\1.32CHouseCharFuncNeigh\FileName.c(14,10):
+      placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+      C:\Users\atind\OneDrive\Desktop\1_Neigh\C\1.32CHouseCharFuncNeigh\1.32CHouseCharFuncNeigh\FileName.c(14,10):
+      the missing variadic argument 2 is required by format string '%c'
+      C:\Users\atind\OneDrive\Desktop\1_Neigh\C\1.32CHouseCharFuncNeigh\1.32CHouseCharFuncNeigh\FileName.c(14,10):
+      this argument is used as a buffer size
+  
+  1.32CHouseCharFuncNeigh.vcxproj -> C:\Users\atind\OneDrive\Desktop\1_Neigh\C\1.32CHouseCharFuncNeigh\x64\Debug\1.32CHouseCharFuncNeigh.exe
